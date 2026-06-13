@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/b5bf83d1-acc4-48d7-a4d4-1a27eb6ef206
+**URL**: https://craft-link-dash.lovable.app
 
 ## How can I edit this code?
 
